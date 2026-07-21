@@ -11,10 +11,15 @@ Whether you want to quickly check if the bot is online, get a random cat fact, o
 Honeydew currently includes:
 
 🏓 Ping command — Check whether the bot is online and responding
+
 🐱 Cat facts — Get a random cat fact directly in Slack
+
 ⚡ Fast responses — Commands are designed to respond quickly
+
 🧩 Simple command system — Easy-to-use slash commands
+
 🚀 More features coming soon — Honeydew is an actively developing project
+
 📋 Available Commands
 Command	Description
 /honeydew-ping	Check the bot's latency and make sure it is online
