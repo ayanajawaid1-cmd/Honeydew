@@ -56,8 +56,19 @@ Honeydew sends a response back to Slack.
 The bot is hosted on a server so that it can remain online and respond to commands continuously.
 
 🧰 Built With
+
 Node.js — JavaScript runtime
+
 Slack Bolt — Framework for building Slack apps
+
 JavaScript — Main programming language
+
 dotenv — Environment variable management
+
 GitHub — Source code hosting
+
+🤖 AI Assistance
+
+ChatGPT was used as a coding assistant during the development of Honeydew. It helped with debugging, explaining concepts, brainstorming features, and improving parts of the code and documentation.
+
+The project was built, tested, and customized by me.
